@@ -1,0 +1,10 @@
+.navbar-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 15%;
+}
+#content {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
