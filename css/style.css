@@ -1,0 +1,25 @@
+.navbar-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 15%;
+}
+#content {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.st {
+    background-color: lightgray;
+}
+h2 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p {
+    text-align: justify;
+}
